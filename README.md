@@ -59,6 +59,7 @@ curl --insecure -i -H "Content-Type: application/json" -X POST -d '{"username":"
 
 ```
 --insecure is included in the request to bypass the self-signed certificate issue
+
 2. Update password
 ```
 
