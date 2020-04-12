@@ -1,0 +1,9 @@
+pip
+Flask
+cassandra-driver
+requests
+flask_httpauth
+passlib
+datetime
+flask_marshmallow
+
